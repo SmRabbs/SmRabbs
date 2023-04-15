@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 Few of my projects are available at [https://syedrabbani-webfolio.netlify.app/](https://syedrabbani-webfolio.netlify.app/index.html)
+- 👨‍💻 Few of my projects are available at [https://smrabbs.github.io/Webfolio/](https://smrabbs.github.io/Webfolio/)
 
 - 📫 How to reach me **smrabbani42@gmail.com**
 

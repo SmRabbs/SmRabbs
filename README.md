@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 Few of my projects are available at [https://main--syedrabbani-webfolio.netlify.app/index.html](https://main--syedrabbani-webfolio.netlify.app/index.html)
+- 👨‍💻 Few of my projects are available at [https://syedrabbani-webfolio.netlify.app/](https://syedrabbani-webfolio.netlify.app/index.html)
 
 - 📫 How to reach me **smrabbani42@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/19Ad2Rs3-IAdKPs3lKa1Kryffm2Tb5hPO/view?usp=share_link](https://drive.google.com/file/d/19Ad2Rs3-IAdKPs3lKa1Kryffm2Tb5hPO/view?usp=share_link)
+- 📄 My Resume [https://drive.google.com/file/d/1EwrHzq4pwr244jTFSc9NViO02ght084I/view?usp=share_link](https://drive.google.com/file/d/1EwrHzq4pwr244jTFSc9NViO02ght084I/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
